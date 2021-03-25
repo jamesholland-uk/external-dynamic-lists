@@ -1,2 +1,1 @@
-# external-dynamic-lists
-EDLs for PAN-OS
+# EDLs for PAN-OS
