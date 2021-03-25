@@ -1,1 +1,1 @@
-# EDLs for PAN-OS
+# Tor exit node EDL for PAN-OS
