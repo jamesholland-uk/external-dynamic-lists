@@ -1,4 +1,4 @@
-name: GetTorNodes
+name: MineTorNodes
 
 on:
   push:
